@@ -22,3 +22,4 @@
   104.18.4.130:443#@Freepol_vpn
   104.19.32.228:443#@Freepol_vpn
   saas.sin.fan:2053#@Freepol_vpn
+  188.114.99.243:2096#🇳🇱@Freepol_vpn
