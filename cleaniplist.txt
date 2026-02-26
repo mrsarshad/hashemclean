@@ -1,6 +1,8 @@
-193.9.49.238:443#@Freepol_vpn
+  193.9.49.238:443#@Freepol_vpn
   135.84.67.38:443#@Freepol_vpn
   172.64.77.200:443#@Freepol_vpn
   brenna.ns.cloudflare.com:2083#@Freepol_vpn
   ip.shakhle.ir:2083#@Freepol_vpn
-1.2.3.4:443#kossher
+  104.16.2.90:443#@Freepol_vpn
+  104.27.25.72:443#@Freepol_vpn
+  sv33.v2bit.com:2087#@Freepol_vpn
