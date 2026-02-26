@@ -1,1 +1,1 @@
-  ip.shakhle.ir:2083#@Freepol_vpn
+  ip.shakhle.ir#@Freepol_vpn
