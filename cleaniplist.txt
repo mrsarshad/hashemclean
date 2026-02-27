@@ -26,3 +26,5 @@
   135.84.67.38:443#🇳🇱 @Freepol_vpn
   45.130.125.69:8443#🇳🇱 @Freepol_vpn
   162.19.243.173:8443#🇳🇱 @Freepol_vpn
+  www.speedtest.net:443#🇳🇱 @Freepol_vpn
+  37.153.171.28:2096#🇳🇱 @Freepol_vpn
