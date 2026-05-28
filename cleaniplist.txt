@@ -7,18 +7,21 @@
   135.84.67.38:443#🇳🇱 @Freepol_vpn
   45.130.125.69:8443#🇳🇱 @Freepol_vpn
   162.19.243.173:8443#🇳🇱 @Freepol_vpn
-  198.41.208.28:443#🇳🇱 @Freepol_vpn
-  198.41.209.73::443#🇳🇱 @Freepol_vpn
-  198.41.208.167:443#🇳🇱 @Freepol_vpn
-  172.64.75.156:443#🇳🇱 @Freepol_vpn
-  190.93.244.113:443#🇳🇱 @Freepol_vpn
-  198.41.211.250:443#🇳🇱 @Freepol_vpn
-  104.18.199.135:443#🇳🇱 @Freepol_vpn
-  104.19.51.242:443#🇳🇱 @Freepol_vpn
-  198.41.211.75:443#🇳🇱 @Freepol_vpn
-  104.18.235.31:443#🇳🇱 @Freepol_vpn
-  198.41.208.28:443#🇳🇱 @Freepol_vpn
-  198.41.209.73:443#🇳🇱 @Freepol_vpn
-  198.41.208.167:443#🇳🇱 @Freepol_vpn
-  172.64.75.156:443#🇳🇱 @Freepol_vpn
-  190.93.244.113:443#🇳🇱 @Freepol_vpn
+  freeyx.cloudflare88.eu.org:80#🇳🇱 @Freepol_vpn
+  cfip.1323123.xyz:80#🇳🇱 @Freepol_vpn
+  162.159.26.217:80#🇳🇱 @Freepol_vpn
+  162.159.6.184:80#🇳🇱 @Freepol_vpn
+  162.159.34.161:80#🇳🇱 @Freepol_vpn
+  cloudflare.182682.xyz:80#🇳🇱 @Freepol_vpn
+  104.16.156.181:80#🇳🇱 @Freepol_vpn
+  162.159.234.73:80#🇳🇱 @Freepol_vpn
+  104.19.149.79:80#🇳🇱 @Freepol_vpn
+  104.16.201.128:80#🇳🇱 @Freepol_vpn
+  cf.090227.xyz:80#🇳🇱 @Freepol_vpn
+  104.16.157.187:80#🇳🇱 @Freepol_vpn
+  cdn.tzpro.xyz:80#🇳🇱 @Freepol_vpn
+  cf.877771.xyz:80#🇳🇱 @Freepol_vpn
+  cloudflare-ip.mofashi.ltd:80#🇳🇱 @Freepol_vpn
+  cf.0sm.com:80#🇳🇱 @Freepol_vpn
+  104.19.158.144:80#🇳🇱 @Freepol_vpn
+  104.16.149.88:80#🇳🇱 @Freepol_vpn
