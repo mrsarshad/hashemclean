@@ -25,3 +25,7 @@
   cf.0sm.com:80#🇳🇱 @Freepol_vpn
   104.19.158.144:80#🇳🇱 @Freepol_vpn
   104.16.149.88:80#🇳🇱 @Freepol_vpn
+  31.133.0.159:2053#🇳🇱 @Freepol_vpn
+  31.133.0.167:2053#🇳🇱 @Freepol_vpn
+  45.76.183.217:49292#🇳🇱 @Freepol_vpn
+  94.131.123.74:443#🇳🇱 @Freepol_vpn
